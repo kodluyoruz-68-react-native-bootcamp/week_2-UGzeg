@@ -10,7 +10,7 @@ import {SafeAreaView, View, Text} from 'react-native';
 function App() {
   return (
     // ...
-    null
+   Kodluyoruz
   );
 }
 
